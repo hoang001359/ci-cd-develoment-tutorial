@@ -2,7 +2,7 @@ name: Start learn
 on:
   push:
     branches:
-      feat/ci-cd
+      - feat/ci-cd
 
 jobs:
   hello:
